@@ -1,0 +1,22 @@
+1 Criar o projeto no github
+
+2 jupyter notebook com limpeza dos dados
+
+3 apresentação business - ppt
+
+4 usar o zoom - video 10 min (max) | explicando resultados, entendimento do dataset
+
+4.1 o que foi feito no notebook
+
+4.2 apresentação do ppt.
+
+
+Ideias
+
+place_name - checar se todos os nomes estão "unificados"
+
+price + currency - Conversão de moeda
+
+tratamento geopandas + distância do centro da cidade influencia valor da casa (?)
+
+área da casa influencia preço
